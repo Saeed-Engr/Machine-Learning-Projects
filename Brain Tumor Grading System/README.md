@@ -22,7 +22,7 @@ install:
     
 ## Authors
 
-- [SaeedEngr](https://github.com/Saeed-Engr)
+- [Saeed Engr](https://github.com/Saeed-Engr)
 
 
 ## 🚀 About Me
